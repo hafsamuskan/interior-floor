@@ -1,17 +1,4 @@
-#final pro : Future Ready Talent Project by SHAIK HAFSA MUSKAN
-  Here I created a Interior-floor Website useful for all people
- 
-Web Technologies uesd : HTML
 
-IDE : Visual Studio Code Editor
-
-Project Title : interior-floor
-
-Problem Statement/Opportunity : Helps customer to select their floor design according to their interest.
-
-Project Description : Here I created HTML files which was helpful to navigate throughout the websites and select their desired floor design and request for the flooring service.
-
-Primary Azure Technology : Static Web Apps, App Services
 # interior-floor
 
 #Azure tools applied:
